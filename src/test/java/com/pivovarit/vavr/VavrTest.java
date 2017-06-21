@@ -1,6 +1,8 @@
 package com.pivovarit.vavr;
 
 
+import org.junit.Test;
+
 /**
  * @author Grzegorz Piwowarek
  * @email gpiwowarek@gmail.com
@@ -8,4 +10,8 @@ package com.pivovarit.vavr;
  */
 public class VavrTest {
 
+    @Test
+    public void example_1() throws Exception {
+
+    }
 }
